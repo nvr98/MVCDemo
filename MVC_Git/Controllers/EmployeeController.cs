@@ -13,5 +13,10 @@ namespace MVC_Git.Controllers
         {
             return View();
         }
+        public ActionResult Home()
+        {
+            return View();
+        }
+
     }
 }
